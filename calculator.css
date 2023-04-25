@@ -1,0 +1,46 @@
+body{
+    background-color: rgba(183, 249, 249, 0.872);
+}
+
+.container{
+    height: 280px;
+   
+    margin: auto;
+    margin-top: 150px;
+    background-color: rgba(2, 2, 2, 0.804);
+   
+    padding: 20px;
+   
+    border-radius: 6px;
+
+    
+}
+
+.container button{
+    cursor: pointer;
+    padding: 16px 32px;
+    margin: 2px;
+    background-color: rgba(24, 24, 24, 0.822);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    border-bottom: 0.5px solid rgb(193, 193, 193);
+    margin-bottom: 5px;
+    box-shadow:2cap
+    
+}
+.container input{
+    margin-bottom: 20px;
+    width: 320px;
+    height: 38px;
+    font-size: 24px;
+    border-radius: 6px;
+    border: none;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
